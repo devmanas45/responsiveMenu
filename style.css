@@ -67,7 +67,7 @@ nav li:first-child{
 .menubutton{
     display: none;
 }
-@media (max-width:800px) {
+@media (max-width:1080px) {
     .hideOnMobile{
         display: none;
     }
